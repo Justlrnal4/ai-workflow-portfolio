@@ -2,7 +2,7 @@
 
 ## Summary
 
-Reztrix is an AI hospitality operations platform focused on hotel operations workflows, structured knowledge, and practical AI support for operators.
+Reztrix is an independent project (not production software) — an AI hospitality operations platform for hotel operations workflows, structured knowledge, and practical AI support for operators.
 
 ## Problem
 

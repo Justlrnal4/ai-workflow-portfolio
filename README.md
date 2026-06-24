@@ -17,7 +17,7 @@ This repo is a public proof-of-work hub. It summarizes selected projects, techni
 ## Selected work
 
 ### Reztrix
-AI hospitality operations platform focused on hotel operations workflows, structured knowledge, and practical AI support for operators.
+AI hospitality operations platform for hotel operations workflows, structured knowledge, and practical AI support for operators. Independent project, not production software.
 
 [Read case study](case-studies/reztrix.md)
 
@@ -41,11 +41,6 @@ Conversion-focused web/product work for local service businesses, including serv
 
 [Read case study](case-studies/local-service-websites.md)
 
-### Open-source PR work
-Public contribution work in AI agent infrastructure tooling.
-
-[Read case study](case-studies/open-source-prs.md)
-
 ## Technical stack
 
 Python, FastAPI, React, TypeScript, Next.js, PostgreSQL, Supabase, Docker, Vercel, GitHub, Power BI, DAX, Claude API, OpenAI/GPT, pgvector, RAG, LLM evaluation, workflow automation.
@@ -55,7 +50,6 @@ Python, FastAPI, React, TypeScript, Next.js, PostgreSQL, Supabase, Docker, Verce
 - GitHub profile: https://github.com/Justlrnal4
 - Portfolio site: https://justinerwin.com
 - BurgReport repo: https://github.com/Justlrnal4/burgreport
-- aX Gateway PR #267: https://github.com/ax-platform/ax-gateway/pull/267
 
 ## What this repo is
 
